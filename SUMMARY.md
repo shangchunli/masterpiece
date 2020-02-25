@@ -4,3 +4,6 @@
 - [神雕侠侣](shendiao.md)
 - [倚天屠龙记](yitian.md)
 - [侠客行](xiake.md)
+- [雪山飞狐](feihu.md)
+- [笑傲江湖](xiaoao.md)
+- [越女剑](yuenv.md)
